@@ -1,0 +1,58 @@
+[
+    {
+        "task-id": "1",
+        "task": "add",
+        "args": [3, 5]
+    },
+    {
+        "task-id": "2",
+        "task": "divide",
+        "args": [10, 2]
+    },
+    {
+        "task-id": "3",
+        "task": "subtract",
+        "args": [12, 7]
+    },
+    {
+        "task-id": "4",
+        "task": "multiply",
+        "args": [20, 4]
+    },
+    {
+        "task-id": "5",
+        "task": "add",
+        "args": [10, -14]
+    },
+    {
+        "task-id": "6",
+        "task": "lol",
+        "args": [17, 15]
+    },
+    {
+        "task-id": "7",
+        "task": "subtract",
+        "args": [71, 41, 21]
+    },
+    {
+        "task-id": "8",
+        "task": "multiply",
+        "args": [9, 0]
+    },
+    {
+        "task-id": "9",
+        "task": "lol",
+        "args": [4, 0]
+    },
+    {
+        "task-id": "10",
+        "task": "divide",
+        "args": [7, 0]
+    },
+    {
+        "task-id": "11",
+        "task": "multiply",
+        "args": [7, 6,-5]
+    }
+]
+

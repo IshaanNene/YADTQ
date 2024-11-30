@@ -1,0 +1,12 @@
+# Kafka dependencies
+kafka-python==2.0.2
+
+# Additional dependencies
+redis==4.0.2  # If using Redis as a result backend
+
+# The `requirements.txt` file is a standard convention 
+# in Python projects that lists all the external libraries 
+# and their specific versions that your project depends on. 
+# This file is crucial for ensuring that anyone who wants to 
+# run your project can easily install the necessary packages 
+# with the correct versions, maintaining compatibility and functionality.
